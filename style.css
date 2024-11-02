@@ -1,0 +1,11 @@
+body{
+    background-image: url('R (1).jpeg');
+    background-size: contain; 
+
+   
+    /* background-color: blueviolet; */
+}
+
+category-container{
+    flex: 2;
+}
